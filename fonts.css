@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "Oswald Regular";
+   src: url("fonts/Oswald Regular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-Regular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Century";
+   src: url("fonts/Century.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
