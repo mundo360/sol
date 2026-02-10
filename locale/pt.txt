@@ -5,44 +5,47 @@
 ### URL
 LinkBehaviour_A3772963_85DF_E88A_41D8_7760437A8A45.source = https://api.whatsapp.com/send?phone=5561986098155&text=Ol%C3%A1,%20gostaria%20de%20falar%20sobre%20Matricula,%20poderia%20me%20auxiliar?
 LinkBehaviour_F3F2C784_EA8A_2BEC_41E6_0501301962A4.source = https://api.whatsapp.com/send?phone=5561986098155&text=Ol%C3%A1,%20gostaria%20de%20falar%20sobre%20Matricula,%20poderia%20me%20auxiliar?
-LinkBehaviour_F0228BC5_EA96_7B6C_41E0_E300A263F766.source = https://api.whatsapp.com/send?phone=5561986098155&text=Ol%C3%A1,%20gostaria%20de%20falar%20sobre%20Matricula,%20poderia%20me%20auxiliar?
 LinkBehaviour_A3C2AB55_85DB_288E_41DB_26C99E7B5883.source = https://api.whatsapp.com/send?phone=5561986098155&text=Ol%C3%A1,%20gostaria%20de%20falar%20sobre%20Matricula,%20poderia%20me%20auxiliar?
+LinkBehaviour_F0228BC5_EA96_7B6C_41E0_E300A263F766.source = https://api.whatsapp.com/send?phone=5561986098155&text=Ol%C3%A1,%20gostaria%20de%20falar%20sobre%20Matricula,%20poderia%20me%20auxiliar?
 LinkBehaviour_A3EEC970_85DB_6886_41C8_3FCC94134E9B.source = https://indi.com.br/
 LinkBehaviour_A3EEF971_85DB_6886_41C1_109AA9286E2F.source = https://www.colegiodosol.com.br/
-LinkBehaviour_F005B277_EA8E_252B_41DC_F226D1BD7276.source = https://www.colegiodosol.com.br/
 LinkBehaviour_F005A277_EA8E_252B_41C1_FACD455E5F45.source = https://www.colegiodosol.com.br/
+LinkBehaviour_F005B277_EA8E_252B_41DC_F226D1BD7276.source = https://www.colegiodosol.com.br/
+LinkBehaviour_5312080B_44CF_8D9D_4194_4BBD0FBE799B.source = https://www.facebook.com/Colegiodosoln/?locale=pt_BR
+LinkBehaviour_5628CC44_44B5_8594_41A4_78168694225D.source = https://www.facebook.com/Colegiodosoln/?locale=pt_BR
 WebFrame_F189646D_EAFA_2D3C_41E8_6215A5EE4ECC.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2233.8995988652414!2d-47.88284358050436!3d-15.71451369868547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a390c979ea637%3A0x52834cd7891fb810!2sCol%C3%A9gio%20do%20Sol!5e0!3m2!1spt-BR!2sbr!4v1770660326796!5m2!1spt-BR!2sbr
 WebFrame_A2194524_85D5_388E_41C5_1DA461D7365E.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d301.0312334562057!2d-47.88166517908952!3d-15.714784713075366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a390c979ea637%3A0x52834cd7891fb810!2sCol%C3%A9gio%20do%20Sol!5e1!3m2!1spt-BR!2sbr!4v1770482469189!5m2!1spt-BR!2sbr
+LinkBehaviour_5783C26E_44B5_9D97_417F_981E309F721C.source = https://www.instagram.com/colegiodosoln/
+LinkBehaviour_53DB8017_44D5_9DB4_41C3_6CAF48D5E103.source = https://www.instagram.com/colegiodosoln/
 
 ## Hotspot
 
 ### Text
 HotspotPanoramaOverlayTextImage_025BA4F8_39C3_1E50_41BD_668405990F97.text = 1 ºAno
-HotspotPanoramaOverlayTextImage_54EF8B80_4242_9B68_41B8_15CEE73FA096.text = 1º Ano
-HotspotPanoramaOverlayTextImage_2A1DAC70_3841_0DED_41C6_76986020635E.text = 1º Ano
-HotspotPanoramaOverlayTextImage_03E1C820_39C1_15F0_41BF_36382FB8D41F.text = 1º Ano
-HotspotPanoramaOverlayTextImage_1FA5FC2F_35F3_90FD_41A6_D6A4AEDAC747.text = 1º ano
-HotspotPanoramaOverlayTextImage_2C3C552A_3843_3F50_41B0_02735E823CC0.text = 1º ano / \
-Refeitório
-HotspotPanoramaOverlayTextImage_01A68654_356E_F78D_41C1_91A32589876A.text = 1º e 3º Ano \
-Lab/saída
-HotspotPanoramaOverlayTextImage_0D14596D_3556_9D9F_416E_43B7744FB136.text = 1º e 3º ano 
-HotspotPanoramaOverlayTextImage_00EE22EC_3552_8C9D_41A4_925069268D37.text = 2º ano / \
-Biblioteca
-HotspotPanoramaOverlayTextImage_0DF3A53C_3552_75FD_41C7_032C0E3500A6.text = 2º ano / \
-Laboratório \
-Biblioteca
-HotspotPanoramaOverlayTextImage_0E7475E0_3532_9484_41C7_E178BE30C3AA.text = 2º ano B \
-
-HotspotPanoramaOverlayTextImage_07FD4369_356E_8D84_41C7_4B139787C179.text = 2º ano/saída
-HotspotPanoramaOverlayTextImage_0FC39060_355E_8B85_41C5_C6789FB823C4.text = 2º ao 1º ano/ \
+HotspotPanoramaOverlayTextImage_0FC39060_355E_8B85_41C5_C6789FB823C4.text = 1° e 2º série/ \
 Laboratório/ \
 Biblioteca \
 
-HotspotPanoramaOverlayTextImage_0ED0C955_3556_9D8F_41B9_37CAA3B19DD7.text = 3º ano \
-
-HotspotPanoramaOverlayTextImage_045E1EBD_35FD_91DD_4183_BF087E665E57.text = 3º ano / \
+HotspotPanoramaOverlayTextImage_03E1C820_39C1_15F0_41BF_36382FB8D41F.text = 1º Ano
+HotspotPanoramaOverlayTextImage_2A1DAC70_3841_0DED_41C6_76986020635E.text = 1º Ano
+HotspotPanoramaOverlayTextImage_54EF8B80_4242_9B68_41B8_15CEE73FA096.text = 1º Ano
+HotspotPanoramaOverlayTextImage_2C3C552A_3843_3F50_41B0_02735E823CC0.text = 1º ano / \
+Refeitório
+HotspotPanoramaOverlayTextImage_07FD4369_356E_8D84_41C7_4B139787C179.text = 1º e 2º série/ \
 saída
+HotspotPanoramaOverlayTextImage_1FA5FC2F_35F3_90FD_41A6_D6A4AEDAC747.text = 1º série
+HotspotPanoramaOverlayTextImage_0D14596D_3556_9D9F_416E_43B7744FB136.text = 1º série \
+9º ano
+HotspotPanoramaOverlayTextImage_01A68654_356E_F78D_41C1_91A32589876A.text = 1º série / \
+9º Ano \
+Lab/saída
+HotspotPanoramaOverlayTextImage_0DF3A53C_3552_75FD_41C7_032C0E3500A6.text = 2º e 3º série / \
+Laboratório \
+Biblioteca
+HotspotPanoramaOverlayTextImage_00EE22EC_3552_8C9D_41A4_925069268D37.text = 2º série / \
+Biblioteca
+HotspotPanoramaOverlayTextImage_0E7475E0_3532_9484_41C7_E178BE30C3AA.text = 2º série B \
+
 HotspotPanoramaOverlayTextImage_02792038_39C1_F5D0_41C7_70B8E3196C47.text = 4º Ano
 HotspotPanoramaOverlayTextImage_2BF12880_39DD_1863_41CC_DD013EFC76FF.text = 5º ano \
 Fudamental I
@@ -54,12 +57,16 @@ HotspotPanoramaOverlayTextImage_77EF5D08_36F2_B584_4197_BCE837804DD7.text = 6º 
 HotspotPanoramaOverlayTextImage_760DD538_36D2_F585_41BC_D277C22F7A73.text = 6º ao 8º ano
 HotspotPanoramaOverlayTextImage_5DEDB0B6_42C1_88A3_41CF_6AD3CFDD75BF.text = 8º Ano
 HotspotPanoramaOverlayTextImage_7BA6DA31_36F2_9F87_41BA_F2E9C5A35177.text = 8º ano - A e B
+HotspotPanoramaOverlayTextImage_045E1EBD_35FD_91DD_4183_BF087E665E57.text = 9º ano / \
+saída
+HotspotPanoramaOverlayTextImage_0ED0C955_3556_9D8F_41B9_37CAA3B19DD7.text = 9ºano B \
+
 HotspotPanoramaOverlayTextImage_54E791D0_4241_8610_41B1_641A40C2A825.text = Auditório
 HotspotPanoramaOverlayTextImage_21C639A9_384E_F68E_41A3_86D66B7870DD.text = Auditório
-HotspotPanoramaOverlayTextImage_05C929D2_356D_FC85_41A5_5DE967C90BF3.text = Biblioteca
 HotspotPanoramaOverlayTextImage_0639C7C0_3572_9484_41BE_93BB4C1FD1E8.text = Biblioteca
-HotspotPanoramaOverlayTextImage_54DA466E_4242_8DB9_41C5_DB570881AEA5.text = Corredor
+HotspotPanoramaOverlayTextImage_05C929D2_356D_FC85_41A5_5DE967C90BF3.text = Biblioteca
 HotspotPanoramaOverlayTextImage_5EA2B38E_4246_8958_41BB_875F77BEE186.text = Corredor
+HotspotPanoramaOverlayTextImage_54DA466E_4242_8DB9_41C5_DB570881AEA5.text = Corredor
 HotspotPanoramaOverlayTextImage_54E91CAE_4246_9EB9_41BF_AECE17C1F8BD.text = Corredor / \
 Refeitório
 HotspotPanoramaOverlayTextImage_11D410EC_3556_7163_41B5_9BAAC03C65B9.text = Ensino Médio
@@ -67,9 +74,9 @@ HotspotPanoramaOverlayTextImage_70706EBF_36D2_F4FC_41BC_8192361A2DC5.text = Ensi
 HotspotPanoramaOverlayTextImage_1149CCE0_356D_9163_41C7_AF8ABBEA6900.text = Ensino Médio   \
 Fundamental II
 HotspotPanoramaOverlayTextImage_043AF32B_39C3_1BF0_41BA_C2D690B45CA7.text = Entrar
-HotspotPanoramaOverlayTextImage_280C316B_39C7_28A5_4192_54FB58AB232B.text = Fudamental I
-HotspotPanoramaOverlayTextImage_175F74CD_3573_91BD_41C2_7B9E352BD309.text = Fudamental I
 HotspotPanoramaOverlayTextImage_283B6A77_39DD_38AD_41A1_17819849B643.text = Fudamental I
+HotspotPanoramaOverlayTextImage_175F74CD_3573_91BD_41C2_7B9E352BD309.text = Fudamental I
+HotspotPanoramaOverlayTextImage_280C316B_39C7_28A5_4192_54FB58AB232B.text = Fudamental I
 HotspotPanoramaOverlayTextImage_20E2A6A9_3841_FA8F_418F_05F221A7F5C4.text = Fundamental I \
 5º ano A/B
 HotspotPanoramaOverlayTextImage_1C172486_3556_71AF_41C9_6D4DC5A346E9.text = Fundamental II
@@ -77,38 +84,58 @@ HotspotPanoramaOverlayTextImage_1767320E_3576_90BF_41AC_2742B16249D2.text = Fund
 Ensino Médio
 HotspotPanoramaOverlayTextImage_6D2B2FB8_3843_0AD1_41B2_C785740F3BA2.text = HALL / SAÍDA
 HotspotPanoramaOverlayTextImage_024A7754_39C1_1A50_419A_8E971F19BE67.text = Hall / saída
+HotspotPanoramaOverlayTextImage_644BA87A_44D6_8E7F_41D0_272F3DBDA237.text = Hall /Saída
 HotspotPanoramaOverlayTextImage_1C049262_3535_F167_4162_54C4DC47763A.text = Hall/saída
 HotspotPanoramaOverlayTextImage_6A56F57A_3847_1E51_419C_46E6F0B39B87.text = INICIAR
 HotspotPanoramaOverlayTextImage_556A2D9B_4243_FE89_41B4_8864FAEE4762.text = Infantil 
+HotspotPanoramaOverlayTextImage_5AA914DF_44F5_86B4_41CF_9D937D459B85.text = Infantil 1
+HotspotPanoramaOverlayTextImage_58DC245D_44FA_85B4_41CC_6CDB38F503D6.text = Infantil 1 e 2
+HotspotPanoramaOverlayTextImage_653E8261_44D5_BD8C_41C1_9FF7D01EF7E1.text = Infantil 1/2/5
+HotspotPanoramaOverlayTextImage_5944F8C1_44F6_8E8C_41BE_DAFE7DCC5778.text = Infantil 2
+HotspotPanoramaOverlayTextImage_58F32BA5_44FA_8294_41A2_BE4E0EF40343.text = Infantil 3
+HotspotPanoramaOverlayTextImage_64FE75B0_44D6_868C_41A5_E5FEDAFB0913.text = Infantil 3
+HotspotPanoramaOverlayTextImage_5935EF3B_44F5_83FC_41B5_F9D8F8D05FF0.text = Infantil 3
+HotspotPanoramaOverlayTextImage_64DBE407_44CA_8594_41A7_DC62E9354C47.text = Infantil 4
+HotspotPanoramaOverlayTextImage_6677CFE3_44DB_828C_41CC_28F54115CA7E.text = Infantil 4 \
+Hall/saída
 HotspotPanoramaOverlayTextImage_5525C3CC_4247_8AF9_41C4_5ED87C5F4FD3.text = Infantil 4 / \
 Semi-Integral
 HotspotPanoramaOverlayTextImage_2C9855B8_3842_FEB2_41BA_9A696D2EA77C.text = Infantil 4 / \
 Semi-Integral
-HotspotPanoramaOverlayTextImage_6DC499B0_3841_16D1_4178_EB434BD1E488.text = Infantil V
+HotspotPanoramaOverlayTextImage_65F76C7A_44DA_867F_41BA_BFB19CAA62C2.text = Infantil 4 e 5
+HotspotPanoramaOverlayTextImage_5AF84F20_44F5_838C_41A3_01A0743B7487.text = Infantil 4 e 5
+HotspotPanoramaOverlayTextImage_5F593860_44FB_8D8C_41C0_D9BFCE71ED90.text = Infantil 4°B
+HotspotPanoramaOverlayTextImage_6DC499B0_3841_16D1_4178_EB434BD1E488.text = Infantil 5
+HotspotPanoramaOverlayTextImage_6471ADC8_44F6_869C_41AD_7C2BD88455FF.text = Infantil 5
+HotspotPanoramaOverlayTextImage_5876EE88_44FB_829C_41C7_E0F45B1D4845.text = Infantil 5º B
 HotspotPanoramaOverlayTextImage_0DA4A215_3557_8F8F_41B2_4E5F835E4BDD.text = Laboratório
 HotspotPanoramaOverlayTextImage_19D88B5E_38C1_0BA7_41C5_983B60A2BD9A.text = Palco
 HotspotPanoramaOverlayTextImage_21788929_3841_178F_41C5_72730E958BD9.text = Piscina
-HotspotPanoramaOverlayTextImage_6DC07ACB_3841_0AB7_418C_438BA852567C.text = Playground
 HotspotPanoramaOverlayTextImage_277E58DE_38CE_F6A8_41A3_A0174AC2D746.text = Pátio
 HotspotPanoramaOverlayTextImage_19F67646_38FF_3DA4_41B5_94F5807A093D.text = Pátio
 HotspotPanoramaOverlayTextImage_27097964_38C7_179D_41BE_EC43D4760021.text = Pátio / \
 Piscina
 HotspotPanoramaOverlayTextImage_2BDB269D_39DF_699D_41C7_531244036FBA.text = Pátio/piscina
-HotspotPanoramaOverlayTextImage_2CED5105_3841_373D_41BE_136C7037897C.text = Quadra
-HotspotPanoramaOverlayTextImage_27A300B4_38CF_76FF_41C5_0C2C2D489D3D.text = Quadra
 HotspotPanoramaOverlayTextImage_253B25DC_3841_FE82_41C9_C566A83A82B8.text = Quadra
-HotspotPanoramaOverlayTextImage_2A48E9D7_3841_16D3_419A_A5FC1F838A1B.text = Refeitório
+HotspotPanoramaOverlayTextImage_27A300B4_38CF_76FF_41C5_0C2C2D489D3D.text = Quadra
+HotspotPanoramaOverlayTextImage_2CED5105_3841_373D_41BE_136C7037897C.text = Quadra
 HotspotPanoramaOverlayTextImage_20DDD931_3841_179C_41AC_57E2052C3B44.text = Refeitório
+HotspotPanoramaOverlayTextImage_2A48E9D7_3841_16D3_419A_A5FC1F838A1B.text = Refeitório
 HotspotPanoramaOverlayTextImage_02B0EDC9_39CF_0EB0_41AC_EAAE2FD71889.text = Refeitório
 HotspotPanoramaOverlayTextImage_2F649104_384F_7769_41B5_974FA44B5DA2.text = Refeitório \
 Infantil
 HotspotPanoramaOverlayTextImage_2BFB4899_3847_1553_41AC_F8989C9E8BCB.text = Refeitório \
 Infantil 4 \
 Semi-integral
-HotspotPanoramaOverlayTextImage_03F56B71_39C1_0A50_41BD_435938D42660.text = Saída
+HotspotPanoramaOverlayTextImage_6DC07ACB_3841_0AB7_418C_438BA852567C.text = Salas \
+Infantil
+HotspotPanoramaOverlayTextImage_658F8E7D_44CB_8274_41AD_4BF3C5021847.text = Salas Infantil / \
+Playground
+HotspotPanoramaOverlayTextImage_585E2491_44FB_868C_41CC_5022851E2F73.text = Saída
 HotspotPanoramaOverlayTextImage_104867CC_356F_9FA3_41C8_D4EBA49F1A6A.text = Saída
-HotspotPanoramaOverlayTextImage_10668360_3577_9763_41C8_1A1CD90A54F1.text = Saída
+HotspotPanoramaOverlayTextImage_03F56B71_39C1_0A50_41BD_435938D42660.text = Saída
 HotspotPanoramaOverlayTextImage_11E4CC79_3552_B165_419D_9FF98EDE83F7.text = Saída
+HotspotPanoramaOverlayTextImage_10668360_3577_9763_41C8_1A1CD90A54F1.text = Saída
 HotspotPanoramaOverlayTextImage_05F94377_39C3_3A50_419E_450C5E94E4C2.text = Visão Aérea \
 (DRONE)
 HotspotPanoramaOverlayTextImage_10A047E1_3573_BF64_41BE_EC414C489C49.text = infantil
@@ -127,11 +154,11 @@ imlevel_6839A74B_3841_1BB7_41CB_F72F75110E02.url = media/panorama_01A43679_39C1_
 imlevel_66ACDCA9_42C2_B891_41A2_E6C70BB71DA0.url = media/panorama_022625E8_39FE_FE7F_41C3_50F582BEB286_HS_i9tzokcz_pt.webp
 imlevel_66AF8CC6_42C2_B893_4196_CC7703DE7A63.url = media/panorama_022625E8_39FE_FE7F_41C3_50F582BEB286_HS_xr8oq3xi_pt.webp
 imlevel_6699BA15_42C2_BBB1_41A0_B0FD34C5C186.url = media/panorama_05254CD2_35D2_91A4_41B1_51F738C69C8D_HS_vebf4yve_pt.webp
-imlevel_04778736_427E_8809_41C2_428411FF0E6B.url = media/panorama_06079147_3575_8D8B_4197_F35AEF9DFEAB_HS_gbxwc65x_pt.webp
+imlevel_6394C249_44B5_9D9D_41CC_A0B6D8A4139E.url = media/panorama_06079147_3575_8D8B_4197_F35AEF9DFEAB_HS_gbxwc65x_pt.webp
 imlevel_680AA0E1_3841_1673_41C1_D3EB77717EA0.url = media/panorama_06079147_3575_8D8B_4197_F35AEF9DFEAB_HS_j6998cvw_pt.webp
-imlevel_047A56E9_427E_881B_41C3_2C0C3542FD9A.url = media/panorama_06079147_3575_8D8B_4197_F35AEF9DFEAB_HS_z92mptwk_pt.webp
+imlevel_639721B6_44B5_9EF4_4166_18420EA9885F.url = media/panorama_06079147_3575_8D8B_4197_F35AEF9DFEAB_HS_z92mptwk_pt.webp
 imlevel_680EA063_3841_1670_41BE_E09210169F7E.url = media/panorama_079B7796_35D7_9FAF_41C8_E44C71FA46C0_HS_ckj8m28a_pt.webp
-imlevel_680C809F_3841_16CF_419E_24DE2E2C2B4E.url = media/panorama_079B7796_35D7_9FAF_41C8_E44C71FA46C0_HS_w1it61ss_pt.webp
+imlevel_639AF129_44B5_9F9C_41BE_AD2AC519ACBA.url = media/panorama_079B7796_35D7_9FAF_41C8_E44C71FA46C0_HS_w1it61ss_pt.webp
 imlevel_66981A3D_42C2_BBF6_41AA_C177A6EDBB6A.url = media/panorama_0B5ED9AF_352E_BC9B_41A1_A61E4EED44B9_HS_ayjdz4fc_pt.webp
 imlevel_6805F195_3841_16D3_41C0_A5A257D3FC9E.url = media/panorama_0B5ED9AF_352E_BC9B_41A1_A61E4EED44B9_HS_b81f87zh_pt.webp
 imlevel_680461C2_3841_16B0_41C8_83B6CCA52AA3.url = media/panorama_0B5ED9AF_352E_BC9B_41A1_A61E4EED44B9_HS_twx9wkfs_pt.webp
@@ -140,19 +167,19 @@ imlevel_6147195D_42C2_B9B6_41A7_91988C3636D0.url = media/panorama_10B195A1_3575_
 imlevel_68627DBF_3841_0ED0_41C6_BB3978DCBA44.url = media/panorama_122D438F_3556_B7BD_41C6_33D6E02CBE07_HS_dock5232_pt.webp
 imlevel_68655D55_3841_0E50_41B3_BE921647896F.url = media/panorama_122D438F_3556_B7BD_41C6_33D6E02CBE07_HS_lu28w8sy_pt.webp
 imlevel_6863BD79_3841_0E50_41B1_0C019D224CE0.url = media/panorama_122D438F_3556_B7BD_41C6_33D6E02CBE07_HS_v2m7d4a8_pt.webp
-imlevel_6684D9BC_42C2_B8F7_41BA_553CD8184E61.url = media/panorama_190FDB42_3532_F0A7_41BD_162910F61BE2_HS_6a9ky1dh_pt.webp
-imlevel_0441D620_427E_8809_41CF_546AF6100D5E.url = media/panorama_190FDB42_3532_F0A7_41BD_162910F61BE2_HS_8ktz4hjg_pt.webp
-imlevel_687A0ED8_3841_0A50_41C0_400230963B6C.url = media/panorama_190FDB42_3532_F0A7_41BD_162910F61BE2_HS_z7o64or5_pt.webp
+imlevel_63A15FB7_44B5_82F5_41C4_6B77F4BC8FBE.url = media/panorama_190FDB42_3532_F0A7_41BD_162910F61BE2_HS_6a9ky1dh_pt.webp
+imlevel_63A34F5A_44B5_83BC_418A_6F4C0ADEEB4E.url = media/panorama_190FDB42_3532_F0A7_41BD_162910F61BE2_HS_8ktz4hjg_pt.webp
+imlevel_63A42F0E_44B5_8397_4196_46FABF5127C9.url = media/panorama_190FDB42_3532_F0A7_41BD_162910F61BE2_HS_z7o64or5_pt.webp
 imlevel_683F3682_3841_1AB0_41B4_F15D9ADACFAE.url = media/panorama_191EE28E_38C1_FAAD_41B6_EF8257E17678_HS_cvw2trw6_pt.webp
 imlevel_68214653_3841_1A57_41BB_9EA0B1DD22C1.url = media/panorama_191EE28E_38C1_FAAD_41B6_EF8257E17678_HS_xa7dizs2_pt.webp
-imlevel_047EE666_427E_8808_41BC_A4C215ED45A2.url = media/panorama_1AA5B819_35ED_B0A5_41B8_D642F9E684E5_HS_9dsg2gxg_pt.webp
+imlevel_639DA050_44B5_9D8C_4195_0B4D9B9C0AB8.url = media/panorama_1AA5B819_35ED_B0A5_41B8_D642F9E684E5_HS_9dsg2gxg_pt.webp
 imlevel_68721FDE_3841_0A51_41CC_2697AFE70E14.url = media/panorama_1AA5B819_35ED_B0A5_41B8_D642F9E684E5_HS_p1oh0ogm_pt.webp
-imlevel_047C46AE_427E_8819_41A9_419C76A9C167.url = media/panorama_1AA5B819_35ED_B0A5_41B8_D642F9E684E5_HS_ro237vty_pt.webp
+imlevel_639BE0C5_44B5_9E94_41A5_EBB0A8F63343.url = media/panorama_1AA5B819_35ED_B0A5_41B8_D642F9E684E5_HS_ro237vty_pt.webp
 imlevel_683CB6DE_3841_1A51_41C3_6F1B69784AC7.url = media/panorama_1B8EF72D_38C2_FBE5_41C6_92AF0BBB0492_HS_7d0iuunc_pt.webp
 imlevel_66ADDC88_42C2_B89F_41C1_7613BC7BF0FA.url = media/panorama_1B8EF72D_38C2_FBE5_41C6_92AF0BBB0492_HS_s3rk41ai_pt.webp
 imlevel_68605E05_3841_0DB3_41BA_3A9C90CA2DA6.url = media/panorama_1D250A9C_3535_B1A3_41C1_16AB3503247D_HS_8dj4dl7x_pt.webp
-imlevel_044275F8_427E_8BF9_41B4_DC0C91DC3BF3.url = media/panorama_1D250A9C_3535_B1A3_41C1_16AB3503247D_HS_u3ch75v6_pt.webp
-imlevel_04468583_427E_880F_41A7_5833266C6FE9.url = media/panorama_1D250A9C_3535_B1A3_41C1_16AB3503247D_HS_up45x6jf_pt.webp
+imlevel_63A58ED5_44B5_82B4_41A6_2D288D85DAA4.url = media/panorama_1D250A9C_3535_B1A3_41C1_16AB3503247D_HS_u3ch75v6_pt.webp
+imlevel_63F18E35_44B5_85F5_41A5_F4962D78BFF5.url = media/panorama_1D250A9C_3535_B1A3_41C1_16AB3503247D_HS_up45x6jf_pt.webp
 imlevel_66AB7C59_42C2_BFB1_41A5_C4989FB11D52.url = media/panorama_2010A31D_385F_3B8F_41CA_B14CAB726C9A_HS_cs4ft1bv_pt.webp
 imlevel_66AB2C2A_42C2_BF93_41AF_F58334ECC0E6.url = media/panorama_2010A31D_385F_3B8F_41CA_B14CAB726C9A_HS_oxoeicua_pt.webp
 imlevel_2F954669_39C5_68A5_41C2_D1064AA80D3D.url = media/panorama_2010A31D_385F_3B8F_41CA_B14CAB726C9A_HS_ree7224v_pt.webp
@@ -167,9 +194,26 @@ imlevel_682B9500_3841_1FB1_41AA_2B008A3184D4.url = media/panorama_20F2663A_3841_
 imlevel_682D24D6_3841_1E50_4180_E50DCF8454A6.url = media/panorama_20F2663A_3841_7DA5_41C0_8033796FB1F4_HS_viznt9vg_pt.webp
 imlevel_6912BB18_3841_0BD1_41C5_F65EEA329D11.url = media/panorama_21ED4015_3336_70D0_41C8_6055A7215241_HS_5ms3epj2_pt.webp
 imlevel_6934CB41_3841_0BB3_41CC_09587581851F.url = media/panorama_21ED4015_3336_70D0_41C8_6055A7215241_HS_lmur8nju_pt.webp
-imlevel_606CE1A8_3841_16F0_41C1_0727A9C13916.url = media/panorama_2245958C_3335_93B0_41A3_2912C40A480D_HS_1kgjxlzj_pt.webp
-imlevel_606331E4_3841_1671_41B3_A354D1C1BB63.url = media/panorama_2245958C_3335_93B0_41A3_2912C40A480D_HS_xa8itffz_pt.webp
-imlevel_6062A23A_3841_15D1_4185_8C844898A9D0.url = media/panorama_2245958C_3335_93B0_41A3_2912C40A480D_HS_y12g79e2_pt.webp
+imlevel_63FB4C7A_44B5_867C_41C2_E9E940EB3612.url = media/panorama_22427C93_3335_B1D0_4194_91D2FA7B4574_HS_2lgdbtst_pt.webp
+imlevel_63FC7C3D_44B5_85F5_41BF_88A6D0D2CB30.url = media/panorama_22427C93_3335_B1D0_4194_91D2FA7B4574_HS_77rkgipi_pt.webp
+imlevel_63FA4CAF_44B5_8694_41CD_1E1D8C77A23B.url = media/panorama_22427C93_3335_B1D0_4194_91D2FA7B4574_HS_chp2k4zn_pt.webp
+imlevel_63F88CEE_44B5_8697_41BB_123AD695D6A6.url = media/panorama_22427C93_3335_B1D0_4194_91D2FA7B4574_HS_e5rg6ox7_pt.webp
+imlevel_63FD2C06_44B5_8594_41AC_65D7B343DA36.url = media/panorama_22427C93_3335_B1D0_4194_91D2FA7B4574_HS_zqq9qhfd_pt.webp
+imlevel_63F60D5F_44B5_87B4_41B3_D2FF06C44212.url = media/panorama_2242D8A7_3332_91F0_41B1_A2875E27EDA2_HS_913nkrhl_pt.webp
+imlevel_63F67DA0_44B5_868C_41B3_F49B7E7AAD22.url = media/panorama_2242D8A7_3332_91F0_41B1_A2875E27EDA2_HS_bbzwduu9_pt.webp
+imlevel_63F3CDE9_44B5_869D_41B8_C263F9BDAA54.url = media/panorama_2242D8A7_3332_91F0_41B1_A2875E27EDA2_HS_rzibir30_pt.webp
+imlevel_63F72D2B_44B5_879D_41A4_D0B7451335F4.url = media/panorama_2242D8A7_3332_91F0_41B1_A2875E27EDA2_HS_w0raavb4_pt.webp
+imlevel_623008FA_44B5_8E7F_41BA_71D37C831E9A.url = media/panorama_2245958C_3335_93B0_41A3_2912C40A480D_HS_1kgjxlzj_pt.webp
+imlevel_620AF950_44B5_8F8C_41C2_16E2858F7F1E.url = media/panorama_2245958C_3335_93B0_41A3_2912C40A480D_HS_xa8itffz_pt.webp
+imlevel_6209298C_44B5_8E9B_41C0_2E63C5E9146F.url = media/panorama_2245958C_3335_93B0_41A3_2912C40A480D_HS_y12g79e2_pt.webp
+imlevel_6201AB04_44B5_838B_41B2_A603AFBA368F.url = media/panorama_2245AFC0_3335_AFB1_41C8_55C73D063489_HS_4s3bnasg_pt.webp
+imlevel_6203DABF_44B5_82F5_41D1_26AF79E1EADC.url = media/panorama_2245AFC0_3335_AFB1_41C8_55C73D063489_HS_98zpzxl5_pt.webp
+imlevel_6201AB49_44B5_839D_4185_C507CA237D82.url = media/panorama_2245AFC0_3335_AFB1_41C8_55C73D063489_HS_jmsh84q0_pt.webp
+imlevel_63FEFBB5_44B5_82F5_41B6_6EAC626BD7DD.url = media/panorama_2245AFC0_3335_AFB1_41C8_55C73D063489_HS_uh0iv9k9_pt.webp
+imlevel_63FFBB79_44B5_827D_41BF_FF9BA74678D0.url = media/panorama_2245AFC0_3335_AFB1_41C8_55C73D063489_HS_wy2yny3o_pt.webp
+imlevel_62049A7F_44B5_8275_41A9_036D47366B5D.url = media/panorama_2245F9C0_3335_F3B0_41BB_4DA1CBE1B2E5_HS_hfu1ffls_pt.webp
+imlevel_620849DB_44B5_8EBD_4197_97533336713E.url = media/panorama_2245F9C0_3335_F3B0_41BB_4DA1CBE1B2E5_HS_hqgnguz6_pt.webp
+imlevel_62086A11_44B5_8D8C_41C7_06E80D55535D.url = media/panorama_2245F9C0_3335_F3B0_41BB_4DA1CBE1B2E5_HS_xu9mh7g6_pt.webp
 imlevel_69FA1BE5_3841_0A73_41BF_3040EA493A5C.url = media/panorama_224B290E_3335_B0B0_41AD_8D3CFA13309F_HS_7l3vgr5e_pt.webp
 imlevel_69F6BC63_3841_0E77_41A9_1C968D9C60EE.url = media/panorama_224B290E_3335_B0B0_41AD_8D3CFA13309F_HS_l2bxury9_pt.webp
 imlevel_611B990F_42C2_B992_41C4_09283087F170.url = media/panorama_224B290E_3335_B0B0_41AD_8D3CFA13309F_HS_sbsk7dwa_pt.webp
@@ -255,6 +299,7 @@ panorama_0A36FBC0_352E_9C84_41B0_4EDAAF52F3B0.label = 6ºano-A
 panorama_0BECEF75_36D6_958F_41A6_FFADEA9F531B.label = 6ºano-B
 panorama_78EDE4F9_36F6_7487_41BE_52C63390EF5B.label = 8ªano-A
 panorama_73D39710_36F7_9585_41C4_9B45B76C50F3.label = 8ºano-B
+panorama_1FBE73F5_3532_B76D_41BD_B53396543FF5.label = 9ºano-Fundamental II
 panorama_2242D0CF_3332_91B0_41C4_DB543A99132F.label = Acesso-Salas-Infantil
 panorama_1B8EF72D_38C2_FBE5_41C6_92AF0BBB0492.label = Auditório
 panorama_18FD4796_38C3_1AA6_41C9_9EF6000F5DF8.label = Auditório-palco
@@ -266,16 +311,16 @@ panorama_079B7796_35D7_9FAF_41C8_E44C71FA46C0.label = Corredor-Biblioteca
 panorama_1D250A9C_3535_B1A3_41C1_16AB3503247D.label = Corredor-Ensino-Médio
 panorama_287063E2_3860_D3D7_41B7_693C5ECFC35F.label = Corredor-Fundamental1
 panorama_2245F9C0_3335_F3B0_41BB_4DA1CBE1B2E5.label = Corredor-Infantil
+panorama_2245958C_3335_93B0_41A3_2912C40A480D.label = Corredor-Infantil.
+panorama_22427C93_3335_B1D0_4194_91D2FA7B4574.label = Corredor-Infantil1e2
 panorama_2242D8A7_3332_91F0_41B1_A2875E27EDA2.label = Corredor-Infantil3
-panorama_2245958C_3335_93B0_41A3_2912C40A480D.label = Corredor-Intantil.
 panorama_1AA5B819_35ED_B0A5_41B8_D642F9E684E5.label = Corredor-Laboratório
 panorama_06079147_3575_8D8B_4197_F35AEF9DFEAB.label = Corredor-ensino-médio-2ºano
 panorama_0B5ED9AF_352E_BC9B_41A1_A61E4EED44B9.label = Corredor-fundamental2-6ºano
 panorama_2D570723_3847_1B46_41C7_96EB5601F62C.label = Corredor-integral-piscina
 panorama_26E4E269_38DF_1595_41C5_20448446916E.label = DRONE
-panorama_1E7BB288_35D6_91A3_41BA_1F7D76E735BD.label = Ensino-Médio-1ºano
-panorama_087EB2DA_3532_8C85_41BC_0CDC5D8012F5.label = Ensino-Médio-2ªano
-panorama_1FBE73F5_3532_B76D_41BD_B53396543FF5.label = Ensino-Médio-3ºano
+panorama_1E7BB288_35D6_91A3_41BA_1F7D76E735BD.label = Ensino-Médio-1ºsérie
+panorama_087EB2DA_3532_8C85_41BC_0CDC5D8012F5.label = Ensino-Médio-2ªsérie
 panorama_21ED4015_3336_70D0_41C8_6055A7215241.label = Fachada-Escola
 panorama_122D438F_3556_B7BD_41C6_33D6E02CBE07.label = Hall-Ensino-Médio
 panorama_224B290E_3335_B0B0_41AD_8D3CFA13309F.label = Hall-térreo
@@ -291,7 +336,6 @@ panorama_2245FFD9_3335_EF53_419D_3CD88E74AFC3.label = Infantil5/integral
 panorama_22427752_3335_9F50_41A8_20A62013747F.label = Intantil1
 panorama_04BE79E0_35D5_F363_41C5_17E03B34B8F2.label = Laboratório
 panorama_2245AFC0_3335_AFB1_41C8_55C73D063489.label = Parquinho-Infantil
-panorama_22427C93_3335_B1D0_4194_91D2FA7B4574.label = Parquinho-Salas
 panorama_191EE28E_38C1_FAAD_41B6_EF8257E17678.label = Piscina
 panorama_20146C3E_3843_0D84_41C4_448FBC722C35.label = Pátio-piscina-quadra
 panorama_270BC679_38C3_1A75_41B5_74FD876D0365.label = Quadra-Esportiva
@@ -367,6 +411,10 @@ DropDown_AFF57EA7_853B_298B_41D3_20A5F6D2F3B5.label = Lista de Ambientes
 
 ### Image
 Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_pt.png
+Image_536C9807_44CF_8D95_41CD_9A4C164045C7.url = skin/Image_536C9807_44CF_8D95_41CD_9A4C164045C7_pt.png
+Image_53DDB015_44D5_9DB4_41A1_A77B4E28DDCC.url = skin/Image_53DDB015_44D5_9DB4_41A1_A77B4E28DDCC_pt.png
+Image_562AFC41_44B5_858C_41BC_2D34CD613F1A.url = skin/Image_562AFC41_44B5_858C_41BC_2D34CD613F1A_pt.png
+Image_5786F269_44B5_9D9C_41BA_77ADC0CEA422.url = skin/Image_5786F269_44B5_9D9C_41BA_77ADC0CEA422_pt.png
 Image_94AAC61A_855A_D8BA_41C2_DA06DD6D20CB.url = skin/Image_94AAC61A_855A_D8BA_41C2_DA06DD6D20CB_pt.png
 Image_A3779963_85DF_E88A_41C2_B76B88619CA7.url = skin/Image_A3779963_85DF_E88A_41C2_B76B88619CA7_pt.png
 Image_A3EDA970_85DB_6886_41C6_15D6A4F6E922.url = skin/Image_A3EDA970_85DB_6886_41C6_15D6A4F6E922_pt.png
@@ -377,31 +425,47 @@ Image_F0237BC5_EA96_7B6C_41E2_7C0AF0D63C73.url = skin/Image_F0237BC5_EA96_7B6C_4
 Image_F3F11784_EA8A_2BEC_41E8_56B034DB9701.url = skin/Image_F3F11784_EA8A_2BEC_41E8_56B034DB9701_pt.png
 
 ### Label
-Label_A3EDB970_85DB_6886_41D1_9507DE307371.text = Acessar SITE Principal?
+Label_53A92E03_44CA_858D_41A9_B25668445C4A.text = @Colegiodosoln
+Label_6DAEE24F_454D_BD94_41C6_1B4009870D4D.text = @colegiodosoln
 Label_F006D277_EA8E_252B_41D8_77AD1CFE528F.text = Acessar SITE Principal?
+Label_A3EDB970_85DB_6886_41D1_9507DE307371.text = Acessar SITE Principal?
 Label_7F5E468B_6FE1_815E_41C6_541663372223.text = Colégio do Sol
-Label_F0230BC5_EA96_7B6C_41E4_DCF84EF2A23B.text = Conversar via Whatsapp?
 Label_A377A963_85DF_E88A_41DA_0F39B32FC69B.text = Conversar via Whatsapp?
+Label_F0230BC5_EA96_7B6C_41E4_DCF84EF2A23B.text = Conversar via Whatsapp?
+Label_562ABC41_44B5_858C_41C4_BC12E3C86276.text = Deseja acessar o Facebook ?
+Label_536CF807_44CF_8D94_41C5_F721B32D2A52.text = Deseja acessar o Facebook?
+Label_5786226A_44B5_9D9C_41B5_E17CC5655B6F.text = Deseja acessar o Instagram ?
+Label_53DD4015_44D5_9DB4_41C3_7551E0055951.text = Deseja acessar o Instagram?
+Label_53126812_44CF_8D8C_41CB_F38815457BC5.text = Facebook.com/Colegiodosoln
+Label_53DC7018_44D5_9DBC_41B6_E76457F16D5C.text = NÃO
+Label_5312280B_44CF_8D9D_41C0_A001526763ED.text = NÃO
 Label_A377D963_85DF_E88A_41CA_35D7200185B4.text = NÃO
-Label_F0233BC5_EA96_7B6C_41D0_0C6C442A2ABA.text = NÃO
+Label_56295C46_44B5_8594_41C0_2140B9FE304D.text = NÃO
 Label_A3ED6970_85DB_6886_41C3_19E9444594BC.text = NÃO
 Label_F0062277_EA8E_252B_41E9_D718170A3232.text = NÃO
-Label_A3ED4970_85DB_6886_41DC_25FA7C5449F6.text = SIM
+Label_5783926F_44B5_9D95_41A2_06A69A0CB261.text = NÃO
+Label_F0233BC5_EA96_7B6C_41D0_0C6C442A2ABA.text = NÃO
+Label_536CD809_44CF_8D9D_41D1_0A4541D24251.text = SIM
 Label_A377B963_85DF_E88A_4188_AC6FF41534C7.text = SIM
 Label_F006C277_EA8E_252B_41E2_14E05A6E2542.text = SIM
+Label_53DCF016_44D5_9DB4_41CA_4B020C44A395.text = SIM
+Label_562A1C43_44B5_858D_41B2_DC2AD18C5B21.text = SIM
+Label_A3ED4970_85DB_6886_41DC_25FA7C5449F6.text = SIM
 Label_F0231BC5_EA96_7B6C_41B9_8014EBF910C3.text = SIM
+Label_5786026B_44B5_9D9C_41C2_B0CC52986581.text = SIM
 Label_65F6B40F_3842_FDCF_41B6_14CEB33C2ADE.text = Tour Virtual 360º
 Label_A3ED7970_85DB_6886_41DC_4DE913B232B5.text = colegiodosol.com.br
-Label_6C0814C3_43C2_880F_41AA_D1A82E25B4A4.text = você está aqui:
+Label_514C676B_44DE_839C_41B4_66690D6B9D5F.text = facebook.com/Colegiodosoln
 Label_6E6A24E9_43CE_8818_41B4_20BDEDDBA2CE.text = você está aqui:
+Label_6C0814C3_43C2_880F_41AA_D1A82E25B4A4.text = você está aqui:
 Label_F0061277_EA8E_252B_41E9_F856DB46005B.text = www.colegiodosol.com.br
-Label_6E69D4E9_43CE_8818_41BD_B0E51783FB61.text = {{title}}
 Label_6C09E4C3_43C2_880F_41CC_87E7DCF95CFC.text = {{title}}
+Label_6E69D4E9_43CE_8818_41BD_B0E51783FB61.text = {{title}}
 
 ### Multiline Text
 HTMLText_D69B082E_DB7A_4E9C_41C9_EC56AA37F891_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:2.34vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Oswald Regular';">Lista de Espaços</SPAN></SPAN></DIV></div>
-HTMLText_F189046D_EAFA_2D3C_41E4_5E96B40D95A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000053vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização</B></SPAN></SPAN></DIV></div>
-HTMLText_A2A28B22_852B_288A_41B5_C495F8E164EB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.910000000000007vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000099;font-size:3.91vh;font-family:'Otama.ep';"><B>LISTA DE FOTOS:</B></SPAN></SPAN></DIV></div>
+HTMLText_F189046D_EAFA_2D3C_41E4_5E96B40D95A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000058vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização</B></SPAN></SPAN></DIV></div>
+HTMLText_A2A28B22_852B_288A_41B5_C495F8E164EB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000072vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000099;font-size:3.91vh;font-family:'Otama.ep';"><B>LISTA DE FOTOS:</B></SPAN></SPAN></DIV></div>
 HTMLText_A273A5C4_85D5_DB8D_41D8_3689549E675D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0033ff;font-size:13px;"><B>Endereço: </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">St. de Habitações Individuais Norte CA 6 - A, Brasília - DF, 71503-506</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Secretaria:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">(61)3468-6606</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Instagram:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.instagram.com/colegioindi/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;">@colegiodosoln</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Facebook:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.facebook.com/colegioindi/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;">https://www.facebook.com/</SPAN></A></SPAN><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.instagram.com/colegioindi/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;">colegiodosoln</SPAN></A></SPAN><SPAN STYLE="font-size:15px;">/</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_F3F2E784_EA8A_2BEC_41C2_483C7A12129A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0033ff;font-size:13px;"><B>Endereço: </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">St. de Habitações Individuais Norte CA 6 - A, Brasília - DF, 71503-506</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Secretaria:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;">(61)34686606</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Instagram:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.instagram.com/colegioindi/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;">@colegiodosoln/</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_FD7E9CF8_EABA_1D24_41CD_D45236780ECD.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
